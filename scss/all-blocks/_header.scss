@@ -15,22 +15,6 @@
         position: relative;
     }
 
-    // &__item:nth-child(odd) &::before{
-        //     content: "";
-        //         display: none;
-        //         position: absolute;
-        //         width: 300px;
-        //         height: 40px;
-        //         right: 0;
-        //         top: 0;
-        //         background-size: 300px 40px;
-        //         background-image: url("./../../images/arrow.png");
-        //         background-repeat: no-repeat;
-        //         // background-position: ;
-        //         object-position: center;
-        //         background-position: center;
-        //         transform: translate(50px, 150px);
-        // }
 
         &__item:nth-child(even){
             .product__img{
